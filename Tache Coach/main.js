@@ -56,5 +56,4 @@ let tab = ['telephone', 'ecouteur', 'radio' , 'television' , 'machine'];
         
      }
      nombre();
-     console.log(nombre);
 
