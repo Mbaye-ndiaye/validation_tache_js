@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background: rgb(81, 132, 173);
+    width: 390px;
+    height: 300px;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin: auto;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+ .block input{
+    
+    text-decoration: none;
+    padding-top: 10px;
+    margin-bottom: 10px;
+} 
+
+.bouton{
+    margin-top: 10px;
+    margin-right: 9rem;
+}
